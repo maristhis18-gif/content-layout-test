@@ -1,0 +1,13 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+    margin: 40px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 18px;
+    border: 1px solid #111;
+    color: #111;
+    text-decoration: none;
+    border-radius: 6px;
+}
